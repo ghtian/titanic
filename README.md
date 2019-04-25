@@ -1,10 +1,11 @@
 ## Use neural network to predict the survival probability of passengers on Titanic
---Ji Changtian        twitter:
+--Ji Changtian        twitter:tony16378348
+###
 Please check the detail in Titanic_In_Keras.ipynb
 
 ----------------------------------------------------------------------------------
 ## 使用神经网络预测铁达尼号乘客生还几率
---纪常添
+
 ###
 ### 赛事简介
 基于给定的两个数据集（train.csv，test.csv），通过机器学习对乘客生还几率进行预测。满分为1分。
